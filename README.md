@@ -1,0 +1,26 @@
+# hi, i'm kenny!
+
+## 💌[kennytang.me](https://kennytang.me)
+
+```js
+const kenny = {
+    likes: ["to", "code"],
+    major: ["electrical and computer engineering"],
+    currLearning: ["java", "html/css", "javascript", "typescript"],
+}
+```
+
+<!--
+**kennyzcx/kennyzcx** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile. 
+
+Here are some ideas to get you started:
+
+🔹 interested in swe, hardware, and product management roles.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
