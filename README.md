@@ -5,7 +5,7 @@
 ```javascript
 const kenny = {
   likes: ["to", "code"],
-  major ["electrical and computer engineering],
-  currLearning: ["java", "html/css", "javascript", "typescript"],
+  major: ["electrical and computer engineering"],
+  curr: ["java", "html/css", "javascript", "typescript"],
 }
 ```
